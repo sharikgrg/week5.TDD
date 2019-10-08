@@ -1,6 +1,6 @@
 # TDD (Test drive development) :taco:
 
-![The TDD circle](TDD%20circle.png)
+![The TDD circle](https://miro.medium.com/max/896/1*pP8Ks6tlt718jJg3fqrtvw.jpeg)
 
 ## Benefits of TDD
 - simple code
