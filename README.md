@@ -1,4 +1,4 @@
-# TDD (Test drive development)
+# TDD (Test drive development) :taco:
 
 ![The TDD circle](TDD%20circle.png)
 
@@ -6,6 +6,5 @@
 - simple code
 - atomic
 - code to specs ---> not lost
-- know when done
-- Maintainability
-- Reduce technical debt
+- knowing when you are done ----> more important for outsourcing/ project work
+- Maintainability and Reducing technical debt
